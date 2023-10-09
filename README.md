@@ -18,9 +18,9 @@ IEEE/CVF International Conference on Computer Vision (ICCV) 2023
 </h5>
   
 <h3 align="center">
-<a href="https://openaccess.thecvf.com/content/ICCV2023/html/Rao_Studying_How_to_Efficiently_and_Effectively_Guide_Models_with_Explanations_ICCV_2023_paper.html"> Paper </a>
-.
-<a href="https://www.youtube.com/watch?v=g9tKVe3fEcQ&pp=ygUKc3VrcnV0IHJhbw%3D%3D"> Video </a>
+<a href="https://openaccess.thecvf.com/content/ICCV2023/html/Rao_Studying_How_to_Efficiently_and_Effectively_Guide_Models_with_Explanations_ICCV_2023_paper.html">Paper</a>
+|
+<a href="https://www.youtube.com/watch?v=g9tKVe3fEcQ&pp=ygUKc3VrcnV0IHJhbw%3D%3D">Video</a>
 </h3>
 </p>
 
