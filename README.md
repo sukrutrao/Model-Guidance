@@ -26,15 +26,20 @@ IEEE/CVF International Conference on Computer Vision (ICCV) 2023
 </h3>
 </p>
 
-## Setup 
+## Setup
+
+### Prerequisites
 
 All the required packages can be installed using conda with the provided [environment.yml](environment.yml) file.
 
-To train X-DNN models, download the pre-trained ImageNet weights from [here](https://github.com/visinf/fast-axiomatic-attribution) and place it in the [weights](weights) directory.
-
-## Data
+### Data
 
 Scripts to download and preprocess the VOC2007 and COCO2014 datasets have been provided in the [datasets](datasets) directory. Please refer to the README file provided there.
+
+### ImageNet Pre-trained Weights
+
+A script to download the pre-trained ImageNet weights for B-cos and X-DNN backbones has been provided in the [weights](weights) directory. Please refer to the README file provided there.
+
 
 ## Training Models
 
