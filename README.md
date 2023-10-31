@@ -70,6 +70,8 @@ For example, to optimize B-cos attributions using the Energy loss at the Input l
 ```bash
 python train.py --model_backbone bcos --dataset VOC2007 --learning_rate 1e-4 --train_batch_size 64 --total_epochs 50 --optimize_explanations --model_path models/VOC2007/bcos_standard_attrNone_loclossNone_origNone_resnet50_lr1e-04_sll1.0_layerInput/model_checkpoint_f1_best.pt --localization_loss_lambda 1e-3 --layer Input --localization_loss_fn Energy --pareto
 ```
+---
+Code for training on the Waterbirds-100 dataset and scripts for visualizing explanations will be added soon.
 
 ## Acknowledgements
 
