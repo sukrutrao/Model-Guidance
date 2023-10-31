@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite the paper as below."
+preferred-citation:
+  authors:
+    - family-names: Rao
+      given-names: Sukrut
+      orcid: "https://orcid.org/0000-0001-8896-7619"
+    - family-names: Böhle
+      given-names: Moritz
+    - family-names: Parchami-Araghi
+      given-names: Amin
+    - family-names: Schiele
+      given-names: Bernt
+      orcid: "https://orcid.org/0000-0001-9683-5237"
+  title: "Studying How to Efficiently and Effectively Guide Models with Explanations"
+  type: conference-paper
+  collection-title: "IEEE/CVF International Conference on Computer Vision (ICCV)"
+  year: 2023
