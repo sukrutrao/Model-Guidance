@@ -296,7 +296,7 @@ parser.add_argument("--data_path", type=str, default="datasets/", help="Path to 
 parser.add_argument("--total_epochs", type=int, default=100, help="Number of epochs to train for.")
 parser.add_argument("--learning_rate", type=float, default=1e-5, help="Learning rate to use.")
 parser.add_argument("--log_path", type=str, default=None, help="Path to save TensorBoard logs.")
-parser.add_argument("--save_path", type=str, default="models/", help="Path to save trained models.")
+parser.add_argument("--save_path", type=str, default="checkpoints/", help="Path to save trained models.")
 parser.add_argument("--seed", type=int, default=0, help="Random seed to use.")
 parser.add_argument("--train_batch_size", type=int, default=16, help="Batch size to use for training.")
 parser.add_argument("--dataset", type=str, required=True,
